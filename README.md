@@ -5,6 +5,6 @@
 - Validasi Foto Checklist Harian (Sikat Gigi & Cuci Tangan)
 - Kalkulasi Poin Kehadiran
 
-# database :
+# tables :
 - attendance -> rekaman kehadiran
 - daily_checks -> foto bukti checklist
